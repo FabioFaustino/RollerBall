@@ -1,0 +1,418 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Users/fabiofaustino/Documents/2020.3.6f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/fabiofaustino/Documents/RollerBall
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51791
+Successfully changed project path to: /Users/fabiofaustino/Documents/RollerBall
+/Users/fabiofaustino/Documents/RollerBall
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 21.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path /Users/fabiofaustino/Documents/2020.3.6f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/fabiofaustino/Documents/RollerBall/Assets
+GfxDevice: creating device client; threaded=0
+2021-05-07 12:29:05.710 Unity[9310:118232] (null) preferred device: Apple M1 (high power)
+2021-05-07 12:29:05.710 Unity[9310:118232] Metal devices available: 1
+2021-05-07 12:29:05.710 Unity[9310:118232] 0: Apple M1 (high power)
+2021-05-07 12:29:05.710 Unity[9310:118232] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Users/fabiofaustino/Documents/2020.3.6f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Users/fabiofaustino/Documents/2020.3.6f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Users/fabiofaustino/Documents/2020.3.6f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56310
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Users/fabiofaustino/Documents/2020.3.6f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Users/fabiofaustino/Documents/2020.3.6f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000469 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 22.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.546 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000254 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.547 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Users/fabiofaustino/Documents/2020.3.6f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.1 MB.
+System memory in use after: 125.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1576.
+Total: 1.210458 ms (FindLiveObjects: 0.105250 ms CreateObjectMapping: 0.023042 ms MarkObjects: 1.026208 ms  DeleteObjects: 0.055125 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(a88e0d53848a4714a9083a46dec9b3d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(a88e0d53848a4714a9083a46dec9b3d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c94f0162d97f22d7a91e9c5bc2c564a9') in 0.402505 seconds
+  Import took 0.404137 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000250 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.493 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.6 MB.
+System memory in use after: 129.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1579.
+Total: 1.025959 ms (FindLiveObjects: 0.088250 ms CreateObjectMapping: 0.023167 ms MarkObjects: 0.903583 ms  DeleteObjects: 0.010042 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000210 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.519 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.8 MB.
+System memory in use after: 129.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1582.
+Total: 0.996667 ms (FindLiveObjects: 0.079250 ms CreateObjectMapping: 0.022875 ms MarkObjects: 0.883500 ms  DeleteObjects: 0.010125 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 7073.261264 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(149b69cef41b2964daf01c40abd4ee57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(149b69cef41b2964daf01c40abd4ee57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '307985c5998d055d33dba9a4ca8b6c3d') in 0.003502 seconds
+  Import took 0.004958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.087918 seconds.
+  path: Assets/Materials/Background.mat
+  artifactKey: Guid(fc1094d879aeca54db931a700c858455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Background.mat using Guid(fc1094d879aeca54db931a700c858455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fc684b28381fffde39969e52f29d7f6') in 0.514282 seconds
+  Import took 0.515840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Materials/PickupCubes.mat
+  artifactKey: Guid(9d4ebafc03fee9b48948f7b01e6eb3ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/PickupCubes.mat using Guid(9d4ebafc03fee9b48948f7b01e6eb3ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d9dac3e1d518ee2305224a43ecf77ce') in 0.011855 seconds
+  Import took 0.013260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Materials/New Material.mat
+  artifactKey: Guid(33bbe4410bd106f42b7c679e68d95a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material.mat using Guid(33bbe4410bd106f42b7c679e68d95a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11976a4a08d8b85c182cff80a4eea4d1') in 0.007007 seconds
+  Import took 0.008497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Materials/FinishPoint.mat
+  artifactKey: Guid(39b763b9a559afe4c8295dbe8ca46c6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/FinishPoint.mat using Guid(39b763b9a559afe4c8295dbe8ca46c6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f95583fc44bc112bcd6425bdeccc1910') in 0.006188 seconds
+  Import took 0.007640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.559203 seconds.
+  path: Assets/Prefabs/Capsule.prefab
+  artifactKey: Guid(b819a62786ade32418a69fbf706adcea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Capsule.prefab using Guid(b819a62786ade32418a69fbf706adcea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '596b16b07e4759419199787c394a15b2') in 0.137782 seconds
+  Import took 0.139516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Prefabs/FinishPoint.prefab
+  artifactKey: Guid(df7d52ad90c7dcb4b948c52de25e8c6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/FinishPoint.prefab using Guid(df7d52ad90c7dcb4b948c52de25e8c6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d19899a179e01092c5601a367c83c22') in 0.012328 seconds
+  Import took 0.013890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Prefabs/Ground2.prefab
+  artifactKey: Guid(04dc176026430b84b9c4fe43568c68a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ground2.prefab using Guid(04dc176026430b84b9c4fe43568c68a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32c9091bbbdcd82f9bde1b1e25f69b48') in 0.006540 seconds
+  Import took 0.008343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Prefabs/Ground.prefab
+  artifactKey: Guid(bd51b27df5012d2469407ca010e16427) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ground.prefab using Guid(bd51b27df5012d2469407ca010e16427) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2295c027c2f237746a8282821376bf1c') in 0.006580 seconds
+  Import took 0.008144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Prefabs/PickupCube.prefab
+  artifactKey: Guid(8864d027a325dbc48a70891595d09beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PickupCube.prefab using Guid(8864d027a325dbc48a70891595d09beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bd3853274b1b2bd664363a8f3d3480b') in 0.005107 seconds
+  Import took 0.006557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.699300 seconds.
+  path: Packages/com.unity.ugui/package.json
+  artifactKey: Guid(319b8889f363f5947acf209c17a94149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ugui/package.json using Guid(319b8889f363f5947acf209c17a94149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b328bf4b7d784ea295633f5ae8cc7be') in 0.755296 seconds
+  Import took 0.757045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.456643 seconds.
+  path: Packages/com.unity.collab-proxy/package.json
+  artifactKey: Guid(743fda8c4b219c8429fb5a77ede1c879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/package.json using Guid(743fda8c4b219c8429fb5a77ede1c879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82b29e0e3a84f3be6a71c5e5ef0947c9') in 0.001438 seconds
+  Import took 0.003193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.402282 seconds.
+  path: Packages/com.unity.ext.nunit/package.json
+  artifactKey: Guid(8143d3a8390f2c64685e3bc272bd9e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ext.nunit/package.json using Guid(8143d3a8390f2c64685e3bc272bd9e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c41e6a1ebb89ae914ef317e02586d94') in 0.001421 seconds
+  Import took 0.003064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 124.750869 seconds.
+  path: Assets/Stylized Lava Texture/Materials
+  artifactKey: Guid(855350d72edd5b546aba24877b32789a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Lava Texture/Materials using Guid(855350d72edd5b546aba24877b32789a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4d6e18bf607222b31ebf31c62b8095d') in 0.001198 seconds
+  Import took 0.004065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044630 seconds.
+  path: Assets/Stylized Lava Texture/Materials/Stylize_Lava.mat
+  artifactKey: Guid(9418a5fcbafe84543998bd7c831a9ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Lava Texture/Materials/Stylize_Lava.mat using Guid(9418a5fcbafe84543998bd7c831a9ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd374468509d9cf156affed4dab31322') in 0.449846 seconds
+  Import took 0.451701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Stylized Lava Texture/Materials/Stylize_Lava_diffuse.mat
+  artifactKey: Guid(3b3ab2ec86ef45c48b01abe26983a811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Lava Texture/Materials/Stylize_Lava_diffuse.mat using Guid(3b3ab2ec86ef45c48b01abe26983a811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1bb71c896e7daf5bd21cdbc2f320874') in 0.118285 seconds
+  Import took 0.119626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.634923 seconds.
+  path: Assets/Stylized Lava Texture/Scene/Stylized Lava Texture.unity
+  artifactKey: Guid(849b1b1d10486a7469570f8be8e1a870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Lava Texture/Scene/Stylized Lava Texture.unity using Guid(849b1b1d10486a7469570f8be8e1a870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4e1324223d830b7d7fffa27a0c1d4ec') in 0.001132 seconds
+  Import took 0.002504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000859 seconds.
+  path: Assets/Stylized Lava Texture/Scene/Stylized Lava Texture.unity
+  artifactKey: Guid(849b1b1d10486a7469570f8be8e1a870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Lava Texture/Scene/Stylized Lava Texture.unity using Guid(849b1b1d10486a7469570f8be8e1a870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4e1324223d830b7d7fffa27a0c1d4ec') in 0.000699 seconds
+  Import took 0.001858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 87.471963 seconds.
+  path: Assets/Stylized Lava Texture/Textures/Vol_35_3_Ambient_Occlusion.tga
+  artifactKey: Guid(c6d0d08a7a14a45418caf59d9687df8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Lava Texture/Textures/Vol_35_3_Ambient_Occlusion.tga using Guid(c6d0d08a7a14a45418caf59d9687df8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fcb9dce2bb7ab2eaad1b0a11fdcff93') in 0.436850 seconds
+  Import took 0.438568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Stylized Lava Texture/Textures/Vol_35_3_Normal.tga
+  artifactKey: Guid(6d3280b47426c8a4e89df1eabd45c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Lava Texture/Textures/Vol_35_3_Normal.tga using Guid(6d3280b47426c8a4e89df1eabd45c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0832b1c3c28ed6d445f46318bd9ae497') in 0.042811 seconds
+  Import took 0.044170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Stylized Lava Texture/Textures/Vol_35_3_Base_Color.tga
+  artifactKey: Guid(dfc1785e05281294d878cde6894aa955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Lava Texture/Textures/Vol_35_3_Base_Color.tga using Guid(dfc1785e05281294d878cde6894aa955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2288af76a5fad72ecf7f53a59e3677b') in 0.008093 seconds
+  Import took 0.009502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Stylized Lava Texture/Textures/Vol_35_3_Height.tga
+  artifactKey: Guid(b54216825a0a75045ae1d36295ceecd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Lava Texture/Textures/Vol_35_3_Height.tga using Guid(b54216825a0a75045ae1d36295ceecd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2e9dcda0bfb8678895c481159dc044a') in 0.008519 seconds
+  Import took 0.009869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Stylized Lava Texture/Textures/Vol_35_3_Roughness.tga
+  artifactKey: Guid(ee6d998e65365904ba2f9fa70273b869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Lava Texture/Textures/Vol_35_3_Roughness.tga using Guid(ee6d998e65365904ba2f9fa70273b869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a75ce89f9cd03c35b7def3f83a5f1d18') in 0.007265 seconds
+  Import took 0.008713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Stylized Lava Texture/Textures/Vol_35_3_Emissive.tga
+  artifactKey: Guid(fa33609267bcdfb41ac03c9fd4b56b68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Lava Texture/Textures/Vol_35_3_Emissive.tga using Guid(fa33609267bcdfb41ac03c9fd4b56b68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07916466475461b5f3a02a4525afb687') in 0.007554 seconds
+  Import took 0.008930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Stylized Lava Texture/Textures/Vol_35_3_Height.tga
+  artifactKey: Guid(b54216825a0a75045ae1d36295ceecd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Lava Texture/Textures/Vol_35_3_Height.tga using Guid(b54216825a0a75045ae1d36295ceecd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2e9dcda0bfb8678895c481159dc044a') in 0.006902 seconds
+  Import took 0.008291 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000330 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.480 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.2 MB.
+System memory in use after: 152.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1636.
+Total: 1.061209 ms (FindLiveObjects: 0.091625 ms CreateObjectMapping: 0.023875 ms MarkObjects: 0.934166 ms  DeleteObjects: 0.010583 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 321.960613 seconds.
+  path: Assets/Stylized Lava Texture/Materials/Stylize_Lava.mat
+  artifactKey: Guid(9418a5fcbafe84543998bd7c831a9ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Lava Texture/Materials/Stylize_Lava.mat using Guid(9418a5fcbafe84543998bd7c831a9ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c551e3d799d67eb945454a97e57c6e0e') in 0.172246 seconds
+  Import took 0.173811 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000224 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.536 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.4 MB.
+System memory in use after: 152.5 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1640.
+Total: 1.077292 ms (FindLiveObjects: 0.095208 ms CreateObjectMapping: 0.023375 ms MarkObjects: 0.945958 ms  DeleteObjects: 0.011875 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000277 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.487 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.6 MB.
+System memory in use after: 152.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1643.
+Total: 1.039542 ms (FindLiveObjects: 0.095500 ms CreateObjectMapping: 0.023250 ms MarkObjects: 0.909125 ms  DeleteObjects: 0.010584 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 498.267184 seconds.
+  path: Assets/Stylized Lava Texture/Materials/Stylize_Lava_diffuse.mat
+  artifactKey: Guid(3b3ab2ec86ef45c48b01abe26983a811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Lava Texture/Materials/Stylize_Lava_diffuse.mat using Guid(3b3ab2ec86ef45c48b01abe26983a811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52a2e8ebff3355838657fe62b31e93e8') in 0.151124 seconds
+  Import took 0.152636 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000859 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.577 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.9 MB.
+System memory in use after: 153.0 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1647.
+Total: 1.187791 ms (FindLiveObjects: 0.138458 ms CreateObjectMapping: 0.023375 ms MarkObjects: 1.012292 ms  DeleteObjects: 0.012583 ms)
+
