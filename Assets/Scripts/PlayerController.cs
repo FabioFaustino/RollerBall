@@ -134,6 +134,7 @@ public class PlayerController : MonoBehaviour
         ReactivateObjects();
         score = 0;
         InitializeText();
+        SetCountText();
     }
 
     void ResetPosition()
